@@ -1,22 +1,16 @@
 no_resolve: true
 domain_keyword_set:
-- github
 - amazon
 - appledaily
 - blogspot
 - fbcdn
 - facebook
-- github
 - porn
 - instagram
-- twitter
-- twimg
 - appledaily
 - beetalk
 - blogspot
 - dropbox
-- telegram
-- whatsapp
 domain_suffix_set:
 - 9to5mac.com
 - abpchina.org
