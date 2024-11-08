@@ -1,0 +1,3 @@
+aloha = type=http-response, pattern=https://api.alohaprofile.com/v1/profile_info, script-path= https://raw.githubusercontent.com/sultan1sa/Egern/refs/heads/main/js/Aloha.js, requires-body=true, max-size=-1, timeout=60
+[MITM]
+hostname = api.alohaprofile.com
